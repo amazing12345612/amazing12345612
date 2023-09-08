@@ -10,7 +10,7 @@
 
 
 
-|![Lepeng Xi's GitHub stats](https://github-readme-stats.vercel.app/api?username=amazing12345612&show_icons=true&hide_border=true) | <a href="https://github.com/amazing12345612"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amazing12345612&layout=compact&theme=buefy&hide_border=true" /></a>|
+|![GitHub stats](https://github-readme-stats.vercel.app/api?username=amazing12345612&show_icons=true&hide_border=true) | <a href="https://github.com/amazing12345612"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amazing12345612&layout=compact&theme=buefy&hide_border=true" /></a>|
 | ------------- | ------------- |
 
 <!-- 
